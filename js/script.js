@@ -1,3 +1,12 @@
+/*ventana modal*/
+
+document.addEventListener("DOMContentLoaded", function() {
+    var modalBienvenida = document.getElementById("modalBienvenida");
+    var modal = new bootstrap.Modal(modalBienvenida);
+    modal.show();
+});
+
+
 document.addEventListener("DOMContentLoaded", function() {
     var form = document.querySelector(".form-1");
     var submitButton = form.querySelector(".send-button");
@@ -15,3 +24,4 @@ document.addEventListener("DOMContentLoaded", function() {
         });
     });
 });
+

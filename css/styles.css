@@ -1531,3 +1531,13 @@ footer {
         height: 15rem; }
         #temas-importantes .conteiner .info-card .card p {
           display: block; } }
+
+
+.modal-dialog-centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.color-primario{
+    color: #d27aac;
+}
