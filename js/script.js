@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function() {
         event.preventDefault();
 
         // Muestra el mensaje de alerta
-        alert("¡El formulario ha sido enviado!");
+        alert("¡Gracias por escribirnos ♥ Te vamos a estar contactando muy pronto!");
 
         // Restablece los valores del formulario
         var inputs = form.querySelectorAll("input");
