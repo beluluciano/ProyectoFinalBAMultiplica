@@ -2,11 +2,7 @@
 <p>Este proyecto es el diseño web de una página para un refugio de gatos llamado "Gatitos de la Sarmiento". La página tiene como objetivo proporcionar información sobre el refugio, promover la adopción de gatos, brindar detalles sobre cómo hacer donaciones y permitir a los usuarios ponerse en contacto con el refugio.</p>
 
 <h6>Tecnologías Utilizadas<h6>
-<p>El diseño web de Gatitos de la Sarmiento se ha creado utilizando las siguientes tecnologías:
-HTML: Para estructurar y organizar el contenido de la página.
-CSS: Aplicación de estilos y personalización de la apariencia de los elementos HTML.
-JavaScript: Interactividad y funcionalidad a la página.
-Bootstrap: Diseño responsive y creación de componentes reutilizables.</p>
+<p>El diseño web de Gatitos de la Sarmiento se ha creado utilizando las siguientes tecnologías:</p>
 <p>El diseño web de Gatitos de la Sarmiento se ha creado utilizando las siguientes tecnologías:</p>
 <ul>
 <li> HTML: Para estructurar y organizar el contenido de la página.</li>
